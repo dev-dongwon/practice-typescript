@@ -1,0 +1,12 @@
+{
+  "name": "tiny-blockchain-with-TS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dev-dongwon/tiny-blockchain-with-TS.git",
+  "author": "dev-dongwon <dev.dongwonkim@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
